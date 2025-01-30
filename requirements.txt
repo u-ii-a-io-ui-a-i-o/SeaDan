@@ -1,0 +1,6 @@
+open3d
+laspy
+pyinstaller
+matplotlib
+tqdm
+scipy
